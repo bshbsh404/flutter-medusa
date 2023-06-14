@@ -1,16 +1,28 @@
 # art_store
 
 A new Flutter project.
+This repository is the codebase of a tutorial for creating a mobile store with Flutter and Medusa
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to install
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/Gunkev/flutter-medusa.git
+```
+2. 2. Change directory and install dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd flutter-medusa
+flutter pub get
+```
+
+3. Start app:
+
+```bash
+flutter run
+```
+
+
